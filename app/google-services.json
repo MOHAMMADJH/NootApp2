@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "509701569222",
+    "firebase_url": "https://nootapp-572b8.firebaseio.com",
+    "project_id": "nootapp-572b8",
+    "storage_bucket": "nootapp-572b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509701569222:android:1ad06fba3f0cd2dcd235c7",
+        "android_client_info": {
+          "package_name": "com.example.nootapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509701569222-b144rv6kdnfu0gbu5vfqr6livkcvt55t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nootapp",
+            "certificate_hash": "bee6ba2e215a060e6553a735740ba4817211e079"
+          }
+        },
+        {
+          "client_id": "509701569222-u3ahqs5r955krjdledl5473pfgeef9hp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRJ975eLMP4kWFtASi8awrQD--pf8ntb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509701569222-u3ahqs5r955krjdledl5473pfgeef9hp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
